@@ -1,0 +1,39 @@
+.menu-text a{
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 26px;
+    color: #fff;
+    text-transform: capitalize;
+}
+.sticky-top:before {
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    margin: 0;
+    content: "";
+    background-repeat: repeat;
+    background: url(https://i.ibb.co/HBhf2VT/hover-bg.png);
+    height: 6px;
+    display: block;
+}
+.menu-text a:hover{
+    color: #ffcc00;
+}
+
+.navbar-light .navbar-toggler {
+    color: #fff;
+    border-color: rgba(0,0,0,.1);
+    background: #ffff;
+}
+@media (min-width: 1024){
+    .logo{
+        width: 100%;
+    }
+   
+}
+@media (max-width: 767px){
+    .logo{
+        width: 225px;
+    }
+}

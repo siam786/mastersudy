@@ -1,0 +1,8 @@
+.single-doctor{
+box-shadow: 0 0 35px rgb(0 0 0 / 10%);
+    -moz-box-shadow: 0 0 35px rgba(0, 0, 0,0.1);
+    -webkit-box-shadow: 0 0 35px rgb(0 0 0 / 10%);
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}

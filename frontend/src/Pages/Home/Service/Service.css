@@ -1,0 +1,17 @@
+.service {
+    border-radius: 1px;
+    border: 2px solid #f9db06;
+}
+
+.service:hover{
+    -webkit-box-shadow: 9px 12px 21px -7px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 9px 12px 21px -7px rgba(0, 0, 0, 0.75);
+    box-shadow: 9px 12px 21px -7px rgba(0, 0, 0, 0.75);
+}
+
+.service a{
+    text-decoration: none;
+}
+.service p{
+    margin-bottom: 0;
+}

@@ -1,0 +1,38 @@
+.footer {
+    background-color: #141414;
+    color: #fff;
+}
+.usefull-link li{
+    list-style: none;
+    padding: 10px 0;
+}
+
+.text-start.usefull-link {
+    padding: 0;
+}
+
+.hr {
+    border-top: 1px solid darkslategray;
+}
+
+
+
+@media only screen and (min-width:1025px ){
+    .footer{
+        padding: 120px !important;
+    }
+}
+.social svg{
+    font-size: 3em;
+    padding-left: 13px;
+    cursor: pointer;
+
+}.social svg:hover{
+   color: red;
+
+}
+@media (max-width: 767px){
+    .f-bottom{
+        flex-direction: column;
+    }
+}
