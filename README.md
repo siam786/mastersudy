@@ -1,6 +1,6 @@
 # Master Study
 
-Live link [Live Link Here](https://pizza-hunt-cbde0.web.app).
+Live link [Live Link Here](https://vermillion-dusk-4fa893.netlify.app/).
 
 ## Main Features
 
